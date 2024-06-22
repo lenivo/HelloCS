@@ -1,0 +1,14 @@
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\bin\Debug\net8.0\HelloCS.exe
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\bin\Debug\net8.0\HelloCS.deps.json
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\bin\Debug\net8.0\HelloCS.runtimeconfig.json
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\bin\Debug\net8.0\HelloCS.dll
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\bin\Debug\net8.0\HelloCS.pdb
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfoInputs.cache
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.AssemblyInfo.cs
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.csproj.CoreCompileInputs.cache
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.dll
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\obj\Debug\net8.0\refint\HelloCS.dll
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.pdb
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\obj\Debug\net8.0\HelloCS.genruntimeconfig.cache
+C:\Users\m_b_t\OneDrive\Документы\Books\C#9\Code\Chapter01\HelloCS\obj\Debug\net8.0\ref\HelloCS.dll
